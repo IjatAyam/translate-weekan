@@ -5,7 +5,7 @@
     'courses' => 'Courses',
     'bundles' => 'Bundles',
     'forums' => 'Forums',
-    'contact' => 'Contact',
-    'about-us' => 'About Us',
+    'contact' => 'Hubungi',
+    'about-us' => 'Tentang Kami',
   ),
 );

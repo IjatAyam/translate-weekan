@@ -7,15 +7,15 @@ return array (
     array (
       'edit' => 'Edit',
       'delete' => 'Delete',
-      'view' => 'View',
-      'create' => 'Create',
-      'update' => 'Update',
-      'generate' => 'Generate',
+      'view' => 'Papar',
+      'create' => 'Cipta',
+      'update' => 'Kemaskini',
+      'generate' => 'Cipta',
     ),
-    'cancel' => 'Cancel',
-    'continue' => 'Continue',
-    'save' => 'Save',
-    'view' => 'View',
+    'cancel' => 'Batal',
+    'continue' => 'Sambung',
+    'save' => 'Simpan',
+    'view' => 'Papar,
   ),
   'backend' => 
   array (
@@ -23,17 +23,17 @@ return array (
     array (
       'users' => 
       array (
-        'unconfirm' => 'Un-confirm',
-        'confirm' => 'Confirm',
+        'unconfirm' => 'Tidak Sahkan',
+        'confirm' => 'Sahkan',
         'unlink' => 'Unlink',
-        'login_as' => 'Login As :user',
+        'login_as' => 'Dafta sebagai :user',
         'clear_session' => 'Clear Session',
-        'change_password' => 'Change Password',
-        'activate' => 'Activate',
-        'deactivate' => 'Deactivate',
-        'resend_email' => 'Resend Confirmation E-mail',
-        'delete_permanently' => 'Delete Permanently',
-        'restore_user' => 'Restore User',
+        'change_password' => 'Tukar kata laluan',
+        'activate' => 'Aktif',
+        'deactivate' => 'Tidak Aktif',
+        'resend_email' => 'Hantar semula e-mel pengesahan',
+        'delete_permanently' => 'Padam secara Kekal',
+        'restore_user' => 'Pulihkan Pengguna',
       ),
     ),
   ),
@@ -41,7 +41,7 @@ return array (
   array (
     'auth' => 
     array (
-      'confirm_account' => 'Confirm Account',
+      'confirm_account' => 'Sahkan akaun',
       'reset_password' => 'Reset Password',
     ),
   ),

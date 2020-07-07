@@ -5,48 +5,48 @@ return array (
   array (
     'general' => 
     array (
-      'created' => 'Created successfully.',
-      'error' => 'Something went wrong. Try Again',
-      'updated' => 'Updated successfully.',
-      'deleted' => 'Deleted successfully.',
-      'restored' => 'Restored successfully.',
-      'cancelled' => 'Update Cancelled.',
-      'unverified' => 'Unverified Update files.',
-      'backup_warning' => 'Please fill necessary details for backup',
-      'delete_warning' => 'You can not delete course. Students are already enrolled. Unpublish the course instead',
-      'delete_warning_bundle' => 'You can not delete Bundle. Students are already enrolled. Unpublish the Bundle instead',
+      'created' => 'Berjaya dicipta.',
+      'error' => 'Ada yang tidak kena. Cuba lagi',
+      'updated' => 'Berjaya dikemaskini.',
+      'deleted' => 'Berjaya dipadam.',
+      'restored' => 'Berjaya dipulihkan.',
+      'cancelled' => 'Kemaskini dibatalkan.',
+      'unverified' => 'Fail kemas kini tidak disahkan.',
+      'backup_warning' => 'Sila isi butiran yang diperlukan untuk backup',
+      'delete_warning' => 'Anda tidak boleh memadam kursus. Pelajar sudah mendaftar. Unpublish kursus sebagai gantinya',
+      'delete_warning_bundle' => 'Anda tidak boleh memadam kursus. Pelajar sudah mendaftar. Tolak penerbitan bundle sebagai gantinya',
     ),
     'roles' => 
     array (
-      'created' => 'The role was successfully created.',
-      'updated' => 'The role was successfully updated.',
-      'deleted' => 'The role was successfully deleted.',
+      'created' => 'Role berjaya dicipta.',
+      'updated' => 'Role berjaya dikemaskini.',
+      'deleted' => 'Role berjaya dipadam.',
     ),
     'users' => 
     array (
-      'cant_resend_confirmation' => 'The application is currently set to manually approve users.',
-      'confirmation_email' => 'A new confirmation e-mail has been sent to the address on file.',
-      'confirmed' => 'The user was successfully confirmed.',
-      'unconfirmed' => 'The user was successfully un-confirmed',
-      'created' => 'The user was successfully created.',
-      'updated' => 'The user was successfully updated.',
-      'deleted' => 'The user was successfully deleted.',
-      'updated_password' => 'The user\'s password was successfully updated.',
-      'session_cleared' => 'The user\'s session was successfully cleared.',
-      'social_deleted' => 'Social Account Successfully Removed',
-      'deleted_permanently' => 'The user was deleted permanently.',
-      'restored' => 'The user was successfully restored.',
+      'cant_resend_confirmation' => 'Aplikasi ini ditetapkan untuk meluluskan pengguna secara manual.',
+      'confirmation_email' => 'E-mel pengesahan baru telah dihantar ke alamat yang tertera.',
+      'confirmed' => 'Pengguna berjaya disahkan.',
+      'unconfirmed' => 'Pengguna berjaya tidak disahkan',
+      'created' => 'Pengguna berjaya dicipta.',
+      'updated' => 'Pengguna berjaya dikemaskini.',
+      'deleted' => 'Pengguna berjaya dipadam.',
+      'updated_password' => 'Kata laluan pengguna berjaya dikemas kini.',
+      'session_cleared' => 'Sesi pengguna berjaya dibersihkan.',
+      'social_deleted' => 'Akaun Sosial Berjaya Dihapus',
+      'deleted_permanently' => 'Pengguna telah dipadamkan secara kekal.',
+      'restored' => 'Pengguna berjaya dipulihkan.',
     ),
   ),
   'frontend' => 
   array (
     'contact' => 
     array (
-      'sent' => 'Your information was successfully sent. We will respond back to the e-mail provided as soon as we can.',
+      'sent' => 'Maklumat anda berjaya dihantar. Kami akan membalas e-mel yang diberikan secepat mungkin.',
     ),
     'course' => 
     array (
-      'completed' => 'Congratulations! You\'ve successfully completed course. Checkout your certificate in dashboard',
+      'completed' => 'Tahniah! Anda telah berjaya menamatkan kursus. Lihat sijil anda di papan pemuka',
     ),
   ),
 );

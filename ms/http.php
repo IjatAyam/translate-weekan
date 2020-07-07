@@ -3,15 +3,15 @@
 return array (
   404 => 
   array (
-    'description2' => ' It looks like nothing was found at this location.',
-    'title' => 'Page Not Found',
+    'description2' => ' Nampaknya tiada dijumpai di lokasi ini.',
+    'title' => 'Laman tidak dijumpai',
     'title2' => '404',
-    'back' => 'Back To HomePage',
-    'description' => 'THIS IS SOMEWHAT EMBARRASSING, ISN’T IT?',
+    'back' => 'Kembali Ke Halaman Utama',
+    'description' => 'INI ADALAH SESUATU YANG MENGATASI, BUKANNYA?',
   ),
   503 => 
   array (
-    'title' => 'Be right back.',
-    'description' => 'Be right back.',
+    'title' => 'Akan kembali.',
+    'description' => 'Akan kembali.',
   ),
 );

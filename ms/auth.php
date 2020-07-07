@@ -1,14 +1,14 @@
 <?php
 
 return array (
-  'general_error' => 'You do not have access to do that.',
+  'general_error' => 'Anda tidak mempunyai akses untuk melakukannya.',
   'socialite' => 
   array (
-    'unacceptable' => ':provider is not an acceptable login type.',
+    'unacceptable' => ':penyedia bukan jenis log masuk yang boleh diterima.',
   ),
-  'password_rules' => 'Your password must be more than 8 characters long, should contain at least 1 uppercase, 1 lowercase and 1 number.',
-  'password_used' => 'You can not set a password that you have previously used.',
-  'failed' => 'These credentials do not match our records.',
-  'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-  'unknown' => 'An unknown error occurred',
+  'password_rules' => 'Kata laluan anda mestilah lebih daripada 8 aksara, harus mengandungi sekurang-kurangnya 1 huruf besar, 1 huruf kecil dan 1 nombor.',
+  'password_used' => 'Anda tidak boleh menetapkan kata laluan yang telah anda gunakan sebelumnya.',
+  'failed' => 'Kelayakan ini tidak sepadan dengan rekod kami.',
+  'throttle' => 'Terlalu banyak percubaan log masuk. Sila cuba lagi dalam: beberapa saat.',
+  'unknown' => 'Ralat tidak diketahui berlaku',
 );

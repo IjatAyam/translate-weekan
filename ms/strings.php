@@ -5,10 +5,10 @@ return array (
   array (
     'user' => 
     array (
-      'email_changed_notice' => 'You must confirm your new e-mail address before you can log in again.',
-      'profile_updated' => 'Profile successfully updated.',
-      'password_updated' => 'Password successfully updated.',
-      'change_email_notice' => 'If you change your e-mail you will be logged out until you confirm your new e-mail address.',
+      'email_changed_notice' => 'Anda mesti mengesahkan alamat e-mel baru anda sebelum anda log masuk semula.',
+      'profile_updated' => 'Profil berjaya dikemas kini.',
+      'password_updated' => 'Kata laluan berjaya dikemas kini.',
+      'change_email_notice' => 'Sekiranya anda menukar e-mel anda akan log keluar sehingga anda mengesahkan alamat e-mel baru anda.',
     ),
     'test' => 'Test',
     'tests' => 

@@ -3,29 +3,29 @@
 return array (
   'general' => 
   array (
-    'logout' => 'Logout',
+    'logout' => 'Log Keluar',
     'home' => 'Home',
-    'login' => 'LogIn',
-    'messages' => 'Messages',
-    'no_messages' => 'No messages',
-    'account' => 'Account',
+    'login' => 'Log Masuk',
+    'messages' => 'Mesej',
+    'no_messages' => 'Tiada Mesej',
+    'account' => 'Akaun',
     'profile' => 'Profile',
   ),
   'frontend' => 
   array (
-    'contact' => 'Contact',
+    'contact' => 'Kenalan',
     'dashboard' => 'Dashboard',
-    'login' => 'Login',
+    'login' => 'Log Masuk',
     'macros' => 'Macros',
-    'register' => 'Register',
-    'courses' => 'Courses',
+    'register' => 'Daftar',
+    'courses' => 'Kursus',
     'forums' => 'Forums',
     'user' => 
     array (
-      'account' => 'My Account',
+      'account' => 'Akaun Saya',
       'administration' => 'Administration',
-      'change_password' => 'Change Password',
-      'my_information' => 'My Information',
+      'change_password' => 'Tukar Kata Laluan',
+      'my_information' => 'Informasi Saya',
       'profile' => 'Profile',
     ),
   ),

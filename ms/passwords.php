@@ -1,9 +1,9 @@
 <?php
 
 return array (
-  'password' => 'Passwords must be at least six characters and match the confirmation.',
-  'reset' => 'Your password has been reset!',
-  'sent' => 'We have e-mailed your password reset link!',
-  'token' => 'This password reset token is invalid.',
-  'user' => 'We can\'t find a user with that e-mail address.',
+  'password' => 'Kata laluan mestilah sekurang-kurangnya enam huruf dan sepadan dengan pengesahannya.',
+  'reset' => 'Kata laluan anda telah ditetapkan semula!',
+  'sent' => 'Kami telah menghantar pautan tetapan semula kata laluan anda melalui e-mel!',
+  'token' => 'Token tetapan semula kata laluan ini tidak sah.',
+  'user' => 'Kami tidak dapat mencari pengguna dengan alamat e-mel itu.',
 );

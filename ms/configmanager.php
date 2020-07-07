@@ -2,21 +2,21 @@
 
 return array (
   'title' => 'Config Manager',
-  'info_choose' => 'Choose a file to start editing',
-  'file' => 'File',
+  'info_choose' => 'Pilih fail untuk mula mengedit ',
+  'file' => 'Fail',
   'path' => 'Path',
   'header' => 
   array (
-    'key' => 'Key',
-    'value' => 'Value',
-    'actions' => 'Actions',
+    'key' => 'Kunci',
+    'value' => 'Nilai',
+    'actions' => 'Tindak',
   ),
   'actions' => 
   array (
-    'edit' => 'Edit',
-    'confirm' => 'Save new key',
-    'save' => 'Save!',
-    'cancel' => 'Cancel',
+    'edit' => 'Ubah',
+    'confirm' => 'Simpan kunci baru',
+    'save' => 'Simpan!',
+    'cancel' => 'Batal',
   ),
-  'sure' => 'Are you sure?',
+  'sure' => 'Adakah anda pasti?',
 );

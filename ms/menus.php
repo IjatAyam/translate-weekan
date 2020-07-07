@@ -9,9 +9,9 @@ return array (
       'dashboard' => 'Dashboard',
       'courses' => 
       array (
-        'management' => 'Courses Management',
-        'title' => 'Courses',
-        'manage' => 'Manage Courses',
+        'management' => 'Pengurusan Kursus',
+        'title' => 'Kursus',
+        'manage' => 'Urus Kursus',
       ),
       'site-management' => 
       array (
@@ -21,7 +21,7 @@ return array (
       array (
         'title' => 'Menu Manager',
       ),
-      'system' => 'System',
+      'system' => 'Siste,',
       'settings' => 
       array (
         'title' => 'Settings',
@@ -39,39 +39,39 @@ return array (
       ),
       'questions' => 
       array (
-        'title' => 'Questions',
+        'title' => 'Soalan',
       ),
       'questions-options' => 
       array (
-        'title' => 'Questions Options',
+        'title' => 'Pilihan Soalan',
       ),
       'tests' => 
       array (
-        'title' => 'Tests',
+        'title' => 'Ujian',
       ),
       'change-password' => 
       array (
-        'title' => 'Change Password',
+        'title' => 'Tukar Kata Laluan',
       ),
       'account' => 
       array (
-        'title' => 'Account',
+        'title' => 'Akaun',
       ),
       'messages' => 
       array (
-        'title' => 'Messages',
+        'title' => 'Mesej',
       ),
       'orders' => 
       array (
-        'title' => 'Orders',
+        'title' => 'Pesanan',
       ),
       'categories' => 
       array (
-        'title' => 'Categories',
+        'title' => 'Kategori',
       ),
       'teachers' => 
       array (
-        'title' => 'Teachers',
+        'title' => 'Pengajar',
       ),
       'hero-slider' => 
       array (
@@ -83,7 +83,7 @@ return array (
       ),
       'testimonials' => 
       array (
-        'title' => 'Testimonials',
+        'title' => 'Testimoni',
       ),
       'blogs' => 
       array (
@@ -95,7 +95,7 @@ return array (
       ),
       'reasons' => 
       array (
-        'title' => 'Reasons',
+        'title' => 'Sebab',
       ),
       'contact' => 
       array (
@@ -127,7 +127,7 @@ return array (
       ),
       'reviews' => 
       array (
-        'title' => 'Reviews',
+        'title' => 'Ulasan',
       ),
       'translations' => 
       array (
@@ -147,13 +147,13 @@ return array (
       ),
       'reports' => 
       array (
-        'title' => 'Reports',
-        'students' => 'Students',
-        'sales' => 'Sales',
+        'title' => 'Laporan',
+        'students' => 'Pelajar',
+        'sales' => 'Jualan',
       ),
       'coupons' => 
       array (
-        'title' => 'Coupons',
+        'title' => 'Kupon',
       ),
       'tax' => 
       array (
@@ -165,7 +165,7 @@ return array (
       ),
       'forums-category' => 
       array (
-        'title' => 'Forums Categories',
+        'title' => 'Kategori Forum',
       ),
     ),
     'access' => 
